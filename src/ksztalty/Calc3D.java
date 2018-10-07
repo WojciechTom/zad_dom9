@@ -2,8 +2,10 @@ package ksztalty;
 
 public interface Calc3D {
 
-    double ballVolume(Ball ball);
+    double volume(Shape3D shape);
 
-    double cubeVolume(Cube cube);
+//    double ballVolume(Ball ball);
+
+//    double cubeVolume(Cube cube);
 
 }
